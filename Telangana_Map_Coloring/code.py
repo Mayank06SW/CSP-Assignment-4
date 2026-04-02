@@ -1,5 +1,3 @@
-# Telangana CSP (same logic, different style)
-
 places = ["Adilabad", "Nizamabad", "Karimnagar", "Warangal", "Khammam"]
 
 links = {
