@@ -1,5 +1,3 @@
-# TWO + TWO = FOUR (same logic, different style)
-
 import itertools
 
 chars = "TWOFUR"
