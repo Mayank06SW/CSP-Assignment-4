@@ -1,5 +1,3 @@
-# Australia Map Coloring (same logic, different style)
-
 regions = ["WA", "NT", "Q", "SA", "NSW", "V", "T"]
 
 adj = {
